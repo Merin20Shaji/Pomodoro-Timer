@@ -36,8 +36,3 @@ To use the Pomodoro Timer web application, simply open the index.html file in yo
    - Click "Reset" to reset the timer.
      
 
-
-## Credits
-
-This Pomodoro Timer web application was created by Binary+Coders.
-
